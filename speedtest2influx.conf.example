@@ -1,0 +1,9 @@
+# speedtest2influx.conf
+
+DB_HOST="http://192.168.0.123:8086"
+
+DB_NAME_librespeedorg="librespeed"
+DB_NAME_speedtestnet="speedtest_net"
+
+DB_USERNAME="influxuser"
+DB_PASSWORD="My.little.53(r37"
