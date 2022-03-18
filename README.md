@@ -4,6 +4,8 @@ This is a shell script to process internet speedtests (using librespeed.org and 
 
 If running shell script in interactive shell you can see raw json result and curl response of the different DB calls.
 
+![grafana-dashboard](./speedtest2influx_grafana-dashboard.jpg)
+
 ## Requirements
 
 You need to have cli tools of librespeed.org and speedtest.net installed previous running the script
